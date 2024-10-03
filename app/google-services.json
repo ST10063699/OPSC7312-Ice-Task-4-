@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475354396398",
+    "project_id": "fakebook-fbdb7",
+    "storage_bucket": "fakebook-fbdb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475354396398:android:81d34befba50a04da925ff",
+        "android_client_info": {
+          "package_name": "com.example.fakebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fAljZxZQQBmvIY-QdQQvEe7y_k1uB2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475354396398:android:7ce7bb6bf28b962ba925ff",
+        "android_client_info": {
+          "package_name": "com.example.opsc7312_ice_task_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fAljZxZQQBmvIY-QdQQvEe7y_k1uB2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
